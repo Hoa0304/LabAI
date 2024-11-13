@@ -4,6 +4,10 @@ Cài đặt các thuật toán:
 
 a. UCS.
 
+```
+UCS: (6, ['A', 'B', 'D']
+```
+
 b. Greedy.
 
 c. A*.
